@@ -4,7 +4,7 @@
 /// <reference lib="dom.asynciterable" />
 /// <reference lib="deno.ns" />
 
-import emotion from "https://deno.land/x/fresh_emotioncss/plugin.ts";
+import emotion from "https://deno.land/x/fresh_emotioncss@v1.0.1/plugin.ts";
 import "$std/dotenv/load.ts";
 
 import { start } from "$fresh/server.ts";
