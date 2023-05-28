@@ -43,8 +43,11 @@ export default function TypeWriter({ texts }: { texts: string[] }) {
         animation: ${cursorEffect} 1s step-end infinite;
         letter-spacing: 0.05em;
       `}
+      aria-label={texts.join(", ")}
     >
-      {texts[textIdx].slice(0, letterIdx) || <span>&nbsp;</span>}
+      <span aria-hidden>
+        {texts[textIdx].slice(0, letterIdx) || <>&nbsp;</>}
+      </span>
     </span>
   );
 }
