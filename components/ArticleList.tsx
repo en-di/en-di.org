@@ -17,10 +17,20 @@ export function ArticleList({ articles }: { articles: Article[] }) {
               }
             `}
           >
-            <a href={`/blog/${article.url}`} class="title">
+            <a href={`/blog/${article.url}`}>
+              {article.cover && (
+                <img
+                  src={article.cover.replace(/^\./, `/blog/${article.url}`)}
+                  alt={article.title}
+                />
+              )}
               <h2>{article.title}</h2>
             </a>
-            <Info tags={article.tags} date={new Date(article.date)} />
+            <Info
+              tags={article.tags}
+              date={new Date(article.date)}
+              author={article.author}
+            />
             <p>{article.summary}</p>
             <a href={`/blog/${article.url}`}>Read more</a>
           </article>

@@ -40,7 +40,7 @@ export const buildBlog = async () => {
       const data = extract<Omit<Article, "url" | "content">>(text);
       const article = { ...data.attrs } as Article;
       article.url = pathname.replace(/(\/index|)\.md$/, "");
-      const renderer = new Renderer("/blog" + article.url);
+      const renderer = new Renderer("/blog/" + article.url);
       article.content = await Marked.marked(data.body, { renderer });
       content[article.url] = article;
     } catch (error) {

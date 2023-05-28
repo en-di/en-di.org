@@ -17,6 +17,9 @@ body{
   flex-basis:1;
 }
 a {color: inherit;}
+img {
+  max-width: 100%;
+}
 `;
 
 export default function Layout({

@@ -62,7 +62,7 @@ export default function ArticlePage({ data, params }: PageProps<Data>) {
       </Head>
       <BreadCrumbs path={[{ url: "/blog", title: "Blog" }, { title }]} />
       <h1 style="margin-bottom: 0.5rem">{title}</h1>
-      <Info tags={tags} date={new Date(date)} />
+      <Info tags={tags} date={new Date(date)} author={author} />
       <div dangerouslySetInnerHTML={{ __html: content }}></div>
     </Layout>
   );

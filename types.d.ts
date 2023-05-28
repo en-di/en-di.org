@@ -4,7 +4,7 @@ declare interface Article {
   title: string;
   tags: string[];
   date: string;
+  cover?: string;
   summary?: string;
   content: string;
-  isDraft?: boolean;
 }

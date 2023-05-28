@@ -14,19 +14,21 @@ const months = [
   "Dec",
 ];
 
-export function Info({ tags, date }: { tags: string[]; date: Date }) {
+export function Info({
+  tags,
+  date,
+  author,
+}: {
+  tags: string[];
+  date: Date;
+  author: string;
+}) {
   return (
     <section
       className={css`
         display: flex;
         flex-direction: column-reverse;
         margin-bottom: 2rem;
-
-        .date {
-          font-size: 0.8rem;
-          opacity: 0.75;
-          padding: 0.25rem 0;
-        }
         @media screen and (min-width: 800px) {
           display: flex;
           flex-direction: row;
@@ -36,7 +38,7 @@ export function Info({ tags, date }: { tags: string[]; date: Date }) {
         }
       `}
     >
-      <span class="tags">
+      <span>
         {tags.map((tag, i) => (
           <>
             {i > 0 && ", "}
@@ -46,7 +48,15 @@ export function Info({ tags, date }: { tags: string[]; date: Date }) {
           </>
         ))}
       </span>
-      <span class="date">
+      <span
+        className={css`
+          font-size: 0.8rem;
+          opacity: 0.75;
+          padding: 0.25rem 0;
+        `}
+      >
+        {" "}
+        {author && <span>{author}, </span>}
         <time dateTime={date.toISOString()}>
           {months[date.getMonth()]} {date.getDate()}, {date.getFullYear()}
         </time>
