@@ -3,8 +3,8 @@
 // This file SHOULD be checked into source version control.
 // This file is automatically updated during development when running `dev.ts`.
 
-export const content:Record<string, Article> = {};
-export const staticContent:Record<string, string> = {".gitkeep":"content/.gitkeep"};
+export const content:Record<string, Article> = {"being-authentic-and-not-giving-a-damn":{"title":"Being authentic and not giving a damn of what others think","date":"2023-05-28T19:14:18.889Z","cover":"./cover.jpg","author":"ValeriaVG","tags":["identity","psychology","relationships"],"summary":"I have been told to just be myself, but it took me a while to figure out\nhow I am and what it means to be me. \nAdding other people to the equasion was and still is an even bigger challenge, \nbut I do believe I figured a thing or two about it along the way.\n","url":"being-authentic-and-not-giving-a-damn","content":""}};
+export const staticContent:Record<string, string> = {".gitkeep":"content/.gitkeep","being-authentic-and-not-giving-a-damn/cover.jpg":"content/being-authentic-and-not-giving-a-damn/cover.jpg"};
 
 export const articlesByPubDate = Object.values(content).sort(
     (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
