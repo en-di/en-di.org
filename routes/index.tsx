@@ -59,10 +59,13 @@ export default function Home() {
           </span>
           <span
             className={css`
-              font-size: 1.5em;
+              font-size: 1.2em;
               display: block;
               text-align: center;
-              white-space: pre;
+              white-space: pre-wrap;
+              @media (min-width: 600px) {
+                font-size: 1.5em;
+              }
             `}
           >
             <TypeWriter
