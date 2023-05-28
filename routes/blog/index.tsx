@@ -3,7 +3,7 @@ import { Handlers, PageProps } from "$fresh/server.ts";
 import { ArticleList } from "$/components/ArticleList.tsx";
 import Layout from "$/components/Layout.tsx";
 import { articlesByPubDate } from "$/content.gen.ts";
-import BreadCrumbs from "../../components/BreadCrumbs.tsx";
+import BreadCrumbs from "$/components/BreadCrumbs.tsx";
 
 interface Data {
   articles: Article[];
