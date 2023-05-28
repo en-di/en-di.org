@@ -4,21 +4,25 @@
 
 import config from "./deno.json" assert { type: "json" };
 import * as $0 from "./routes/_404.tsx";
-import * as $1 from "./routes/blog/[...slug].tsx";
-import * as $2 from "./routes/blog/index.tsx";
-import * as $3 from "./routes/blog/tags/[tag].tsx";
-import * as $4 from "./routes/index.tsx";
-import * as $5 from "./routes/sitemap.xml.ts";
+import * as $1 from "./routes/about.tsx";
+import * as $2 from "./routes/blog/[...slug].tsx";
+import * as $3 from "./routes/blog/index.tsx";
+import * as $4 from "./routes/blog/tags/[tag].tsx";
+import * as $5 from "./routes/index.tsx";
+import * as $6 from "./routes/shop/index.tsx";
+import * as $7 from "./routes/sitemap.xml.ts";
 import * as $$0 from "./islands/TypeWriter.tsx";
 
 const manifest = {
   routes: {
     "./routes/_404.tsx": $0,
-    "./routes/blog/[...slug].tsx": $1,
-    "./routes/blog/index.tsx": $2,
-    "./routes/blog/tags/[tag].tsx": $3,
-    "./routes/index.tsx": $4,
-    "./routes/sitemap.xml.ts": $5,
+    "./routes/about.tsx": $1,
+    "./routes/blog/[...slug].tsx": $2,
+    "./routes/blog/index.tsx": $3,
+    "./routes/blog/tags/[tag].tsx": $4,
+    "./routes/index.tsx": $5,
+    "./routes/shop/index.tsx": $6,
+    "./routes/sitemap.xml.ts": $7,
   },
   islands: {
     "./islands/TypeWriter.tsx": $$0,

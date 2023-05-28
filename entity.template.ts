@@ -45,5 +45,5 @@ nullam ilice victricia, reicerer?
     new TextEncoder().encode(content),
     { createNew: true }
   );
-  await Deno.copyFile("./cover.jpg", `./content/${slug}/cover.jpg`);
+  await Deno.copyFile("./static/cover.jpg", `./content/${slug}/cover.jpg`);
 }

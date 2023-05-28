@@ -134,15 +134,31 @@ export default function Layout({
             <header>Get in touch</header>
             <ul>
               <li>
-                <a href="https://github.com/en-di">GitHub</a>
+                <a
+                  href="https://github.com/en-di"
+                  target={"_blank"}
+                  rel="noopener noreferrer"
+                >
+                  GitHub
+                </a>
               </li>
               <li>
-                <a href="https://join.slack.com/t/en-di/shared_invite/zt-1pgac6qqd-ZcBo_RA7TakoRsQ3LzCa~g">
+                <a
+                  href="https://join.slack.com/t/en-di/shared_invite/zt-1pgac6qqd-ZcBo_RA7TakoRsQ3LzCa~g"
+                  target={"_blank"}
+                  rel="noopener noreferrer"
+                >
                   Slack
                 </a>
               </li>
               <li>
-                <a href="https://discord.gg/MeNqK23bY9">Discord</a>
+                <a
+                  href="https://discord.gg/MeNqK23bY9"
+                  target={"_blank"}
+                  rel="noopener noreferrer"
+                >
+                  Discord
+                </a>
               </li>
             </ul>
           </section>

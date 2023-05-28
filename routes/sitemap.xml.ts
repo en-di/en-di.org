@@ -34,7 +34,15 @@ ${articlesByPubDate
   <lastmod>${new Date(
     articlesByPubDate[0]?.date || Date.now()
   ).toISOString()}</lastmod>
-</url>
+  </url>
+  <url>
+  <loc>${BASE_URL}/about</loc>
+  <lastmod>${new Date().toISOString()}</lastmod>
+  </url>
+  <url>
+  <loc>${BASE_URL}/shop</loc>
+  <lastmod>${new Date().toISOString()}</lastmod>
+  </url>
 </urlset>`;
 })();
 
