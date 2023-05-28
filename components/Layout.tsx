@@ -43,6 +43,20 @@ export default function Layout({
           href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;1,400&display=swap"
           rel="stylesheet"
         />
+
+        <script
+          async
+          src="https://www.googletagmanager.com/gtag/js?id=G-B8V6VQ3N33"
+        ></script>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-B8V6VQ3N33');`,
+          }}
+        />
       </Head>
       {!isIndex && <Header />}
       <main
