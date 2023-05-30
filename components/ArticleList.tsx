@@ -9,7 +9,7 @@ export function ArticleList({ articles }: { articles: Article[] }) {
           <article
             className={css`
               padding: 1rem 0;
-              .title {
+              a:has(h2) {
                 text-decoration: none;
               }
               & + & {

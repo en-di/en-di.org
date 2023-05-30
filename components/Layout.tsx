@@ -93,6 +93,14 @@ export default function Layout({
               text-transform: uppercase;
               margin-bottom: 1rem;
             }
+
+            a {
+              text-decoration: none;
+              &:hover,
+              &:active {
+                text-decoration: underline;
+              }
+            }
           `}
         >
           <section>
