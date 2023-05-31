@@ -6,7 +6,7 @@ tags: [identity, psychology, relationships]
 summary: |
   On so many occasions I have been told to just be myself, yet it took me a while to figure out
   who I am and what it means to be me. 
-  Adding other people to the equasion was and still is an even bigger challenge, 
+  Adding other people to the equation was and still is an even bigger challenge, 
   but I do believe I figured a thing or two about it along the way.
 ---
 
@@ -29,8 +29,8 @@ years I wouldn't be able to trace where my limiting beliefs came from even if I
 tried. Faceless generic "others" was a monstrosity with many faces and voices
 and not a shred of compassion or empathy.
 
-I've been this way up until the moment the same therapist comfirmed that I was
-undoubtfully autistic. It might not sound like much, but for me it meant the
+I've been this way up until the moment the same therapist confirmed that I was
+undoubtedly autistic. It might not sound like much, but for me it meant the
 world: I was very very different from the _others_ and thus their beliefs could
 no longer apply to me.
 
@@ -57,7 +57,7 @@ I started to really listen to my emotions: I've journaled every single day,
 spent many hours with myself and talked obsessively about my feelings with
 anyone who would listen to try and pinpoint why I felt the way I felt.
 
-One of the things that I've realised was that I value deep emotional connections
+One of the things that I've realized was that I value deep emotional connections
 more than anything else: having authentic relationships has always been my first
 priority. But it only became obvious when I heard Brené Brown's talk about
 vulnerability: I had a surge of emotions and a feeling of being truly seen and
@@ -74,13 +74,13 @@ improvements at work. I knew that if they wouldn't be accepted - it wouldn't
 cost me anything, except for maybe a bit of a hurt pride.
 
 To my surprise it didn't hurt as much as I imagined. I guess being ready for a
-challenge somehow made me more resilient to a failure. But most of my sugestions
-have been met with praise and that gave me confidence to start taking bigger
-risks.
+challenge somehow made me more resilient to a failure. But most of my
+suggestions have been met with praise and that gave me confidence to start
+taking bigger risks.
 
 ## The art letting go and drawing lines
 
-I liked being celebrated! I liked being taken seriously! And quickly realised I
+I liked being celebrated! I liked being taken seriously! And quickly realized I
 wanted to feel this way most of the time. I've started celebrating myself: this
 felt too important to outsource. I wrote myself letters, saying all the things I
 wanted to hear from others, pointing out all my achievements and reminding
@@ -95,8 +95,8 @@ less than I deserved. I didn't yet know what I wanted, but I was certain about
 what I didn't want.
 
 I was surprised how easy it was to let go of my marriage: I knew I didn't want
-any more lies and uncertanty and, since my every attempt to communicate my needs
-and find a compromise failed, my conscience was clear.
+any more lies and uncertainty and, since my every attempt to communicate my
+needs and find a compromise failed, my conscience was clear.
 
 I let go of people who couldn't respect my newly found needs. It was scary to
 set boundaries at first, but my daughters helped me a lot with it - they were
@@ -119,7 +119,7 @@ I clearly care a lot about my children and that I wouldn't want to change ever,
 yet a lot of other things I cared about used to get in a way of that. My first
 three years in Sweden I spent working long hours to try and make the company I
 worked for succeed. I told myself that I did it for my family: our finances were
-scarce and I rationalised that more money would solve all of our problems.
+scarce and I rationalized that more money would solve all of our problems.
 
 But, truth be told, I was using my work to hide from said problems: working a
 lot was tiring, but it was also easy because I knew exactly what to do at every
@@ -133,7 +133,7 @@ wasted, but I do see now how valuable my time is. There's a limited amount of
 hours in any given day and I'm pretty sure that eventually I'll start getting
 older. And so there's a strictly limited amount of f*cks I can give.
 
-Just like I started to learn how to be financially responsible by chosing the
+Just like I started to learn how to be financially responsible by choosing the
 biggest value for the least amount of money, I started to consciously choose who
 and what I spend my energy on.
 
@@ -143,12 +143,12 @@ didn't sound like a smart investment after all!
 
 I was still taking risks, sometimes I was losing miserably, sometimes I was
 hitting a jackpot and mostly I found myself somewhere in between those two. But
-decision making became easier: I could just imagine several outcomes, analyse my
+decision making became easier: I could just imagine several outcomes, analyze my
 emotions, match whatever I was trying to achieve with my core values and needs
-and make a consious choice of how I wanted to proceed.
+and make a conscious choice of how I wanted to proceed.
 
 With every choice I made I gained a deeper insight on what I wanted and soon
-enough I could visualise and more importantly verbalise my desires in details.
+enough I could visualize and more importantly verbalize my desires in details.
 As well as the reasons behind those wants and needs.
 
 It's a process and there's a lot of room for improvement still, yet my life

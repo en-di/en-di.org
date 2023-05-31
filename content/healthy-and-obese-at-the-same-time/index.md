@@ -33,7 +33,7 @@ I was put on various diets; back in the day separate eating was all the rage,
 thank god keto wasn't a thing yet! I learned to drink tea without sugar,
 tolerate supplements, one of which looked and tasted exactly like dirt, but
 nothing made a difference! I was getting chubbier by the second and at the age
-of tvelve I weighed more than 70 kilos.
+of twelve I weighed more than 70 kilos.
 
 I looked like a teacher on my school pictures, not only due to my weight, but
 also because there wasn't any clothes for children my age and size.
@@ -62,7 +62,7 @@ my mother was dating a guy that was into starvation cleansing (yeah, I know) and
 that inspired me to go on three weeks of not eating anything at all.
 
 I drank mineral water, tea and took long naps after school; smoking also kept my
-apetite in check and after three weeks I've lost 18 kilos! Impressive, right?
+appetite in check and after three weeks I've lost 18 kilos! Impressive, right?
 
 Well, I gained 5 of them in the following week. The rest came with friends
 months later. But the most devastating part was that nothing really changed: I
@@ -83,7 +83,7 @@ I did get into a long term relationship couple of years after that with a friend
 of mine who was also considered undateable. Mostly because I felt like we
 belonged together being the ugly ducklings.
 
-That worked for a while, but I've started to realise that I still was not happy.
+That worked for a while, but I've started to realize that I still was not happy.
 And, of course, I've decided that the key to my happiness was to lose weight
 once again.
 
@@ -159,7 +159,7 @@ I don't have a strict food policy. I prefer plant based food, but luckily for me
 there's plenty of snacks and fast food that fit into that category. I truly eat
 whatever I want. I love unfiltered non-alcoholic bear every once in a while and
 a specific brand of chips from a nearby Polish store. Most of my meals are quick
-mix of frozen vegentables, rice, soy meat or beans with mustard or ketchup. I
+mix of frozen vegetables, rice, soy meat or beans with mustard or ketchup. I
 stopped drinking coffee because I never really liked it and, as much as I love
 rye bread, I'm avoiding it because it gives me a heartburn.
 
@@ -175,11 +175,11 @@ I am slowly replacing my wardrobe with clothes I really like. Luckily nowadays I
 can find almost anything in XL: from bikini and crop tops to waist-fitted
 business casual, all of which look really good on my hour-glass figure.
 
-I wouldn't call myself fat, as, acccording to my scale, more than half of my
-body weight is muscle mass, though I wouldn't call myself "muscle" either. I
-prefer "curvy", "full figured" or "plus size" over "big", "chubby" and
-definitely over "(mordbidly) obese", but ultimately I give less and less
-importance to those labels.
+I wouldn't call myself fat, as, according to my scale, more than half of my body
+weight is muscle mass, though I wouldn't call myself "muscle" either. I prefer
+"curvy", "full figured" or "plus size" over "big", "chubby" and definitely over
+"(morbidly) obese", but ultimately I give less and less importance to those
+labels.
 
 It took me a long time to accept the fact that my mind was different from what
 is considered a norm, it feels logical to try and accept the rest of me as well.
