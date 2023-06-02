@@ -54,7 +54,7 @@ So, inevitably I got tired of waiting and took the matter in my own hands.
 I've decided that instead of relying on a feeling I could just choose a partner
 that would have higher chances of developing feelings for me. And so when my
 close friend made a comment about my dress with a deep cleavage and very short
-skirt, which I wore exclusively at home, I literally talked him into a
+skirt, which I wore exclusively at home, I literally talked them into a
 relationship. I knew I wasn't in love, but it didn't matter. That person cared
 for me and I've promised myself that I'll do my best to fake it till a genuine
 feeling emerges.
