@@ -4,7 +4,7 @@ date: 2023-06-02T18:53:10.935Z
 author: ValeriaVG
 tags: [love, relationships, identity]
 summary: |
-  Love is in the air! I do find that Pride month a better celebration of love than a Valentine's day.
+  Love is in the air! I do find that Pride month is a better celebration of love than a Valentine's day.
   Both because love deserves much more than one day and because I'm convinced that love is about choices.
 ---
 
